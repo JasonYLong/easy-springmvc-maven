@@ -6,10 +6,8 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Login Page!</title>
+<title>Welcome to DST Jenkins web</title>
 </head>
-<h1>
-Welcome to DST Jenkins web
-</h1>
 <body>
 <form action="login">
 	用户：<input id="username" name="username" type="text"></input><br>
